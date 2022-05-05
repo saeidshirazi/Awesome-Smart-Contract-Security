@@ -180,7 +180,7 @@
 # Misc
 
 * [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices)    
-* [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md)
+* [Decentralized Application Security Project (or DASP) Top 10](https://www.dasp.co/)
 
    
 # Bug Bounty & Writeup
