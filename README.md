@@ -26,7 +26,7 @@
 
 # Blog
 
-* [Step-by-step guide to reverse an APK protected with DexGuard using Jadx](https://blog.lexfo.fr/dexguard.html)
+* [Solidity Security: Comprehensive list of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
 * [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
 
 # How To's
