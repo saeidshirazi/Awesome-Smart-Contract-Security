@@ -96,7 +96,7 @@
 * [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices)    
 * [Decentralized Application Security Project (or DASP) Top 10](https://www.dasp.co/)
 * [Solidity Security Considerations](https://docs.soliditylang.org/en/latest/security-considerations.html)
-   
+* [A Collection of Vulnerabilities in ERC20 Smart Contracts](https://github.com/sec-bit/awesome-buggy-erc20-tokens)
 # Bug Bounty & Writeup
 * [Hacker101 CTF: Android Challenge Writeups](https://medium.com/bugbountywriteup/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
 * [Arbitrary code execution on Facebook for Android through download feature](https://medium.com/@dPhoeniixx/arbitrary-code-execution-on-facebook-for-android-through-download-feature-fb6826e33e0f)
