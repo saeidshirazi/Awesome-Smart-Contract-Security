@@ -43,92 +43,6 @@
 
 * [SEC575: Mobile Device Security and Ethical Hacking](https://www.sans.org/cyber-security-courses/mobile-device-security-ethical-hacking/)
 
-# Tools
-     
-#### Static Analysis
-
-* [Deoptfuscator - Deobfuscator for Android Application](https://github.com/Gyoonus/deoptfuscator)
-* [Android Reverse Engineering WorkBench for VS Code](https://github.com/Surendrajat/APKLab)
-* [Apktool:A tool for reverse engineering Android apk files](https://ibotpeaches.github.io/Apktool/)
-* [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine)
-* [DeGuard:Statistical Deobfuscation for Android](http://apk-deguard.com/)
-* [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases)
-* [Amandroid – A Static Analysis Framework](http://pag.arguslab.org/argus-saf)
-* [Androwarn – Yet Another Static Code Analyzer](https://github.com/maaaaz/androwarn/)
-* [Droid Hunter – Android application vulnerability analysis and Android pentest tool](https://github.com/hahwul/droid-hunter)
-* [Error Prone – Static Analysis Tool](https://github.com/google/error-prone)
-* [Findbugs – Find Bugs in Java Programs](http://findbugs.sourceforge.net/downloads.html)
-* [Find Security Bugs – A SpotBugs plugin for security audits of Java web applications.](https://github.com/find-sec-bugs/find-sec-bugs/)
-* [Flow Droid – Static Data Flow Tracker](https://github.com/secure-software-engineering/FlowDroid)
-* [Smali/Baksmali – Assembler/Disassembler for the dex format](https://github.com/JesusFreke/smali)
-* [Smali-CFGs – Smali Control Flow Graph’s](https://github.com/EugenioDelfa/Smali-CFGs)
-* [SPARTA – Static Program Analysis for Reliable Trusted Apps](https://www.cs.washington.edu/sparta)
-* [Gradle Static Analysis Plugin](https://github.com/novoda/gradle-static-analysis-plugin)
-* [Checkstyle – A tool for checking Java source code](https://github.com/checkstyle/checkstyle)
-* [PMD – An extensible multilanguage static code analyzer](https://github.com/pmd/pmd)
-* [Soot – A Java Optimization Framework](https://github.com/Sable/soot)
-* [Android Quality Starter](https://github.com/pwittchen/android-quality-starter)
-* [QARK – Quick Android Review Kit](https://github.com/linkedin/qark)
-* [Infer – A Static Analysis tool for Java, C, C++ and Objective-C](https://github.com/facebook/infer)
-* [Android Check – Static Code analysis plugin for Android Project](https://github.com/noveogroup/android-check)
-* [FindBugs-IDEA Static byte code analysis to look for bugs in Java code](https://plugins.jetbrains.com/plugin/3847-findbugs-idea)
-* [APK Leaks – Scanning APK file for URIs, endpoints & secrets](https://github.com/dwisiswant0/apkleaks)
-* [Trueseeing – fast, accurate and resillient vulnerabilities scanner for Android apps](https://github.com/monolithworks/trueseeing)
-* [StaCoAn – crossplatform tool which aids developers, bugbounty hunters and ethical hackers](https://github.com/vincentcox/StaCoAn)
-* [APKScanner](https://github.com/n3k00n3/APKScanner)
-* [Mobile Audit – Web application for performing Static Analysis and detecting malware in Android APKs](https://github.com/mpast/mobileAudit)
-      
-#### Dynamic Analysis
-
-* [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-* [Magisk v23.0 - Root & Universal Systemless Interface](https://github.com/topjohnwu/Magisk)
-* [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
-* [House: A runtime mobile application analysis toolkit with a Web GUI](https://github.com/nccgroup/house)
-* [Objection - Runtime Mobile Exploration toolkit, powered by Frida](https://github.com/sensepost/objection)
-* [Droid-FF - Android File Fuzzing Framework](https://github.com/antojoseph/droid-ff)
-* [Drozer](https://github.com/FSecureLABS/drozer)
-* [Inspeckage](https://github.com/ac-pm/Inspeckage)
-* [PATDroid - Collection of tools and data structures for analyzing Android applications](https://github.com/mingyuan-xia/PATDroid)
-* [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2)
-* [Cutter - Free and Open Source RE Platform powered by radare2](https://cutter.re/)
-* [ByteCodeViewer - Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)](https://bytecodeviewer.com/)
-
-
-        
-#### Online APK Analyzers
-
-* [Guardsquare AppSweep](https://www.guardsquare.com/appsweep-mobile-application-security-testing)
-* [Oversecured](https://oversecured.com/)
-* [Android Observatory APK Scan](https:/androidobservatory.org/upload)
-* [AndroTotal](http://andrototal.org/)
-* [VirusTotal](https://www.virustotal.com/#/home/upload)
-* [Scan Your APK](https://scanyourapk.com/)
-* [AVC Undroid](https://undroid.av-comparatives.org/index.php)
-* [OPSWAT](https://metadefender.opswat.com/#!/)
-* [ImmuniWeb Mobile App Scanner](https://www.htbridge.com/mobile/)
-* [Ostor Lab](https://www.ostorlab.co/scan/mobile/)
-* [Quixxi](https://quixxisecurity.com/)
-* [TraceDroid](http://tracedroid.few.vu.nl/submit.php)
-* [Visual Threat](http://www.visualthreat.com/UIupload.action)
-* [App Critique](https://appcritique.boozallen.com/)
-* [Jotti's malware scan](https://virusscan.jotti.org/)
-* [kaspersky scanner](https://opentip.kaspersky.com/)
-
-#### Online APK Decompiler
-* [Android APK Decompiler](http://www.decompileandroid.com/)
-* [Java  Decompiler APk](http://www.javadecompilers.com/apk)
-* [APK DECOMPILER APP](https://www.apkdecompilers.com/)
-* [DeAPK is an open-source, online APK decompiler ](https://deapk.vaibhavpandey.com/)
-* [apk and dex decompilation back to Java source code](http://www.decompiler.com/)
-* [APK Decompiler Tools](https://apk.tools/tools/apk-decompiler/alternateURL/)
-
-#### Forensic Analysis
-* [Forensic Analysis for Mobile Apps (FAMA)](https://github.com/labcif/FAMA)
-* [Andriller](https://github.com/den4uk/andriller)
-* [Autopsy](https://www.autopsy.com/)
-* [bandicoot](https://github.com/computationalprivacy/bandicoot)
-* [Fridump-A universal memory dumper using Frida](https://github.com/Nightbringer21/fridump)
-* [LiME - Linux Memory Extractor](https://github.com/504ensicsLabs/LiME)
 
 # Labs
 
@@ -181,7 +95,7 @@
 
 * [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices)    
 * [Decentralized Application Security Project (or DASP) Top 10](https://www.dasp.co/)
-
+* [Solidity Security Considerations](https://docs.soliditylang.org/en/latest/security-considerations.html)
    
 # Bug Bounty & Writeup
 * [Hacker101 CTF: Android Challenge Writeups](https://medium.com/bugbountywriteup/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
