@@ -6,7 +6,6 @@
 
 # Table of Contents
 - [Blog](#blog)
-- [How To's](#how-tos)
 - [Paper](#paper)
 - [Books](#books)
 - [Course](#course)
@@ -29,9 +28,6 @@
 * [Solidity Security: Comprehensive list of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
 * [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
 
-# How To's
-
-* [How to analyze mobile malware: a Cabassous/FluBot Case study](https://blog.nviso.eu/2021/04/19/how-to-analyze-mobile-malware-a-cabassous-flubot-case-study/)
 # Paper
 * [AndrODet: An adaptive Android obfuscation detector](https://arxiv.org/pdf/1910.06192.pdf)
 * [GEOST BOTNET - the discovery story of a new Android banking trojan](http://public.avast.com/research/VB2019-Garcia-etal.pdf)
@@ -183,22 +179,9 @@
   
 # Misc
 
-* [Android Malware Adventures](https://docs.google.com/presentation/d/1pYB522E71hXrp4m3fL3E3fnAaOIboJKqpbyE5gSsOes/edit)    
+* [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices)    
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md)
-* [Hands On Mobile API Security](https://hackernoon.com/hands-on-mobile-api-security-get-rid-of-client-secrets-a79f111b6844)
-* [Android Penetration Testing Courses](https://medium.com/mobile-penetration-testing/android-penetration-testing-courses-4effa36ac5ed)
-* [Lesser-known Tools for Android Application PenTesting](https://captmeelo.com/pentest/2019/12/30/lesser-known-tools-for-android-pentest.html)
-* [android-device-check - a set of scripts to check Android device security configuration](https://github.com/nelenkov/android-device-check)
-* [apk-mitm - a CLI application that prepares Android APK files for HTTPS inspection](https://github.com/shroudedcode/apk-mitm)
-* [Andriller - is software utility with a collection of forensic tools for smartphones](https://github.com/den4uk/andriller)
-* [Dexofuzzy: Android malware similarity clustering method using opcode sequence-Paper](https://www.virusbulletin.com/virusbulletin/2019/11/dexofuzzy-android-malware-similarity-clustering-method-using-opcode-sequence/)
-* [Chasing the Joker](https://docs.google.com/presentation/d/1sFGAERaNRuEORaH06MmZKeFRqpJo1ol1xFieUa1X_OA/edit#slide=id.p1)
-* [Side Channel Attacks in 4G and 5G Cellular Networks-Slides](https://i.blackhat.com/eu-19/Thursday/eu-19-Hussain-Side-Channel-Attacks-In-4G-And-5G-Cellular-Networks.pdf)
-* [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app)
-* [Popular Android Malware 2018](https://github.com/sk3ptre/AndroidMalware_2018)
-* [Popular Android Malware 2019](https://github.com/sk3ptre/AndroidMalware_2019)
-* [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020)    
-    
+
    
 # Bug Bounty & Writeup
 * [Hacker101 CTF: Android Challenge Writeups](https://medium.com/bugbountywriteup/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
