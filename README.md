@@ -53,7 +53,8 @@
 * [The Ethernaut](https://ethernaut.openzeppelin.com/)  
 * [Etherhack](https://etherhack.positive.com/)  
 * [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)  
-
+* [Ciphershastra CTF](https://ciphershastra.com/)  
+* [Defi Hack](https://www.defihack.xyz/)  
 # Talks
   
 * [One Step Ahead of Cheaters -- Instrumenting Android Emulators](https://www.youtube.com/watch?v=L3AniAxp_G4)
