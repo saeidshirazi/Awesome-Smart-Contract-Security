@@ -55,6 +55,7 @@
 * [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)  
 * [Ciphershastra CTF](https://ciphershastra.com/)  
 * [Defi Hack](https://www.defihack.xyz/)  
+* [Gacha Lab (BSC Testnet)](https://gachalab.inspex.co/)
 # Talks
   
 * [One Step Ahead of Cheaters -- Instrumenting Android Emulators](https://www.youtube.com/watch?v=L3AniAxp_G4)
