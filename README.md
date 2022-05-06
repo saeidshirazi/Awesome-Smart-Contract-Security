@@ -58,7 +58,6 @@
 * [Gacha Lab (BSC Testnet)](https://gachalab.inspex.co/)
 # Talks
   
-### Conference talks
 
 | Title | Conference | Year |
 | --- | --- | --- |
