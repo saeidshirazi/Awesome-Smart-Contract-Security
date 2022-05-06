@@ -83,7 +83,7 @@
 # Cheat Sheet 
 * [Solidity Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/solidity-cheat-sheet/)
 * [Solidity Cheatsheet and Best practices](https://github.com/manojpramesh/solidity-cheatsheet)
-* [Frida Cheatsheet and Code Snippets for Android](https://erev0s.com/blog/frida-code-snippets-for-android/)
+* [Ethereum Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/ethereum-cheat-sheet/)
 
 # Checklist
 * [Android Pentesting Checklist](https://mobexler.com/checklist.htm#android)
