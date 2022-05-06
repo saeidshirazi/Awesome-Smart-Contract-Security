@@ -58,27 +58,17 @@
 * [Gacha Lab (BSC Testnet)](https://gachalab.inspex.co/)
 # Talks
   
-* [One Step Ahead of Cheaters -- Instrumenting Android Emulators](https://www.youtube.com/watch?v=L3AniAxp_G4)
-* [Vulnerable Out of the Box: An Evaluation of Android Carrier Devices](https://www.youtube.com/watch?v=R2brQvQeTvM)
-* [Rock appround the clock: Tracking malware developers by Android](https://www.youtube.com/watch?v=wd5OU9NvxjU)
-* [Chaosdata - Ghost in the Droid: Possessing Android Applications with ParaSpectre](https://www.youtube.com/watch?v=ohjTWylMGEA)
-* [Remotely Compromising Android and iOS via a Bug in Broadcom's Wi-Fi Chipsets](https://www.youtube.com/watch?v=TDk2RId8LFo)
-* [Honey, I Shrunk the Attack Surface – Adventures in Android Security Hardening](https://www.youtube.com/watch?v=EkL1sDMXRVk)
-* [Hide Android Applications in Images](https://www.youtube.com/watch?v=hajOlvLhYJY)
-* [Scary Code in the Heart of Android](https://www.youtube.com/watch?v=71YP65UANP0)
-* [Fuzzing Android: A Recipe For Uncovering Vulnerabilities Inside System Components In Android](https://www.youtube.com/watch?v=q_HibdrbIxo)
-* [Unpacking the Packed Unpacker: Reverse Engineering an Android Anti-Analysis Native Library](https://www.youtube.com/watch?v=s0Tqi7fuOSU)
-* [Android FakeID Vulnerability Walkthrough](https://www.youtube.com/watch?v=5eJYCucZ-Tc)
-* [Unleashing D* on Android Kernel Drivers](https://www.youtube.com/watch?v=1XavjjmfZAY)
-* [The Smarts Behind Hacking Dumb Devices](https://www.youtube.com/watch?v=yU1BrY1ZB2o)
-* [Overview of common Android app vulnerabilities](https://www.bugcrowd.com/resources/webinars/overview-of-common-android-app-vulnerabilities/)
-* [Advanced Android Bug Bounty skills](https://www.youtube.com/watch?v=OLgmPxTHLuY)
-* [Android security architecture](https://www.youtube.com/watch?v=3asW-nBU-JU)
-* [Get the Ultimate Privilege of Android Phone](https://vimeo.com/335948808)
-* [Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps](https://www.youtube.com/watch?v=U6qTcpCfuFc)
-* [Bad Binder: Finding an Android In The Wild 0day](https://www.youtube.com/watch?v=TAwQ4ezgEIo)
-* [Deep dive into ART(Android Runtime) for dynamic binary analysis](https://www.youtube.com/watch?v=mFq0vNvUgj8)
-  
+### Conference talks
+
+| Title | Conference | Year |
+| --- | --- | --- |
+|[Smart Contract Security: a Practitioners’ Perspective](https://conf.researchr.org/details/icse-2021/icse-2021-papers/12/Smart-Contract-Security-a-Practitioners-Perspective) | ICSE 2021 |2021|
+| [Predicting Random Numbers in Ethereum Smart Contracts](https://schd.ws/hosted_files/appseccalifornia2018/00/AppSecCali%202018%20-%20Predicting%20Random%20Numbers%20in%20Ethereum%20Smart%20Contracts.pdf) | OWASP AppSec | 2018 |
+| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) | Blackhat USA | 2018 |
+| [Rattle - an EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/) | reCON | 2018 |
+| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) | CanSecWest | 2018 |
+| [Smashing Ethereum Smart Contracts for Fun and Profit](https://github.com/b-mueller/smashing-smart-contracts) | HITB Amsterdam | 2018 |
+| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) | EkoParty | 2017 |
 # Misc
 
 * [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices)    
