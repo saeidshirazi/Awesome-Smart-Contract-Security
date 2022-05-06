@@ -11,11 +11,9 @@
 - [Course](#course)
 - [Tools](#tools)
   * [Static Analysis Tools](#Static-Analysis)
-  * [Dynamic Analysis Tools](#Dynamic-Analysis)
-  * [Online APK Analyzers](#Online-APK-Analyzers)
-  * [Online APK Decompiler](#Online-APK-Decompiler)
-  * [Forensic Analysis Tools](#Forensic-Analysis)
+
 - [Labs](#labs)
+- [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
 - [Talks](#talks)
 - [Misc](#misc)
 - [Bug Bounty & Writeups](#Bug-Bounty-&-Writeup)
@@ -48,26 +46,14 @@
 
 * [Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)  
 * [OVAA (Oversecured Vulnerable Android App)](https://github.com/oversecured/ovaa)
-* [DIVA (Damn insecure and vulnerable App)](https://github.com/payatu/diva-android)
-* [OWASP Security Shepherd ](https://github.com/OWASP/SecurityShepherd)
-* [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
-* [OWASP-mstg(UnCrackable Mobile Apps)](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
-* [VulnerableAndroidAppOracle](https://github.com/dan7800/VulnerableAndroidAppOracle)
-* [Android InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
-* [Purposefully Insecure and Vulnerable Android Application (PIIVA)](https://github.com/htbridge/pivaa)
-* [Sieve app(An android application which exploits through android components)](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
-* [DodoVulnerableBank(Insecure Vulnerable Android Application that helps to learn hacing and securing apps)](https://github.com/CSPF-Founder/DodoVulnerableBank)
-* [Digitalbank(Android Digital Bank Vulnerable Mobile App)](https://github.com/CyberScions/Digitalbank)
-* [AppKnox Vulnerable Application](https://github.com/appknox/vulnerable-application)
-* [Vulnerable Android Application](https://github.com/Lance0312/VulnApp)
-* [Android Security Labs](https://github.com/SecurityCompass/AndroidLabs)
-* [Android-security Sandbox](https://github.com/rafaeltoledo/android-security)
-* [VulnDroid(CTF Style Vulnerable Android App)](https://github.com/shahenshah99/VulnDroid)
-* [FridaLab](https://rossmarks.uk/blog/fridalab/)
-* [Santoku Linux - Mobile Security VM](https://santoku-linux.com/)
-* [AndroL4b - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis](https://github.com/sh4hin/Androl4b)
 
-  
+# Capture the Flag and Wargames
+
+* [Capture the Ether](https://capturetheether.com/)  
+* [The Ethernaut](https://ethernaut.openzeppelin.com/)  
+* [Etherhack](https://etherhack.positive.com/)  
+* [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)  
+
 # Talks
   
 * [One Step Ahead of Cheaters -- Instrumenting Android Emulators](https://www.youtube.com/watch?v=L3AniAxp_G4)
