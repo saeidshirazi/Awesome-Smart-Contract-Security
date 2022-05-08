@@ -27,6 +27,11 @@
 
 # Blog
 
+* [Emin Gün Sirer, professor in Cornell Tech’s IC3 lab focused on blockchain security.](http://hackingdistributed.com/) 
+* [ Phil Daian, grad student behind KEVM, Hydra, and other Ethereum academic projects](https://pdaian.com/blog/) 
+* [Cybersecurity R&D firm with a blockchain security practice](https://blog.trailofbits.com/) 
+* [ Martin Swende, programmer and appsec consultant](http://swende.se/) 
+* [Company blog about security issues and practices within blockchain ecosystem](https://blog.smartdec.net/) 
 * [Solidity Security: Comprehensive list of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
 * [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
 * [Subzero is an HSM-backed method for cold storage of Bitcoin developed by Square](https://medium.com/square-corner-blog/open-sourcing-subzero-ee9e3e071827) 
