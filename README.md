@@ -60,8 +60,9 @@
    
 # Books
 
- * [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
- * [Android Security Internals](https://www.oreilly.com/library/view/android-security-internals/9781457185496/)
+ * [Fundamentals of Smart Contract Security](https://www.amazon.com/Fundamentals-Smart-Contract-Security-Richard/dp/194944936X)
+ * [Hands-On Smart Contract Development with Solidity and Ethereum ](https://www.oreilly.com/library/view/hands-on-smart-contract/9781492045250/ch12.html)
+ * [Mastering Ethereum](https://www.bookstack.cn/read/ethereumbook-en/a09dd11523647de0.md)
 
 # Course
 
