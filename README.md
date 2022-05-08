@@ -14,6 +14,7 @@
   * [Verification](#Verification)
   * [Linters](#Linters)
   * [BugHunting](#BugHunting)
+  * [Reverse Engineering](#Reverse_Engineering)
 
 - [Labs](#labs)
 - [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
@@ -93,6 +94,16 @@
 * [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 
+### Reverse Engineering
+
+* [abi-decompiler](https://github.com/beched/abi-decompiler) - EVM reverse engineering helper utility
+* [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - EVM disassembler with static and dynamic analysis abilities, including function signature lookup
+* [Ethersplay](https://github.com/trailofbits/ethersplay) - Visual disassembler for EVM bytecode built on Binary Ninja
+* [evmlab](https://github.com/ethereum/evmlab) - Utilities for interacting with the Ethereum virtual machine
+* [IDA-EVM](https://github.com/trailofbits/ida-evm) - IDA plugin to view EVM instructions
+* [Panoramix](http://eveem.org/about)
+* [pyevmasm](https://github.com/trailofbits/pyevmasm) - EVM assembler and disassembler with a CLI and a Python API
+* [Rattle](https://github.com/trailofbits/rattle) - EVM binary static analysis framework. Produces SSA representations of EVM code.
 # Labs
 
 * [Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)  
