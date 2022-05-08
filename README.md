@@ -11,6 +11,7 @@
 - [Course](#course)
 - [Tools](#tools)
   * [Visualization](#Visualization)
+  * [Verification](#Verification)
   * [Linters](#Linters)
   * [BugHunting](#BugHunting)
 
@@ -51,6 +52,11 @@
 * [Solgraph](https://github.com/raineorshine/solgraph) - Generates DOT graphs with function control flow of a solidity contract
 * [Surya](https://github.com/ConsenSys/surya) - Generates various visual outputs of function call graphs
 * [sol-function-profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
+
+### Verification 
+
+* [KEVM](https://github.com/kframework/evm-semantics) - K Semantics of the Ethereum Virtual Machine (EVM)
+* [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for EVM
 
 ### Linters
 
