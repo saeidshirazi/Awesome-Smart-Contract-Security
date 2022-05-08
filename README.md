@@ -10,13 +10,16 @@
 - [Books](#books)
 - [Course](#course)
 - [Tools](#tools)
-  * [Static Analysis Tools](#Static-Analysis)
+  * [Visualization](#Visualization)
+  * [Linters](#Linters)
+  * [Bug Finding Tools](#Bug_Finding_Tools)
 
 - [Labs](#labs)
 - [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
 - [Talks](#talks)
 - [Misc](#misc)
 - [Bug Bounty & Writeups](#Bug-Bounty-&-Writeup)
+- [Podcasts](#Podcasts)
 - [Cheat Sheet](#Cheat-Sheet)
 - [Checklist](#Checklist)
 - [Bug Bounty Report](#Bug-Bounty-Report)
@@ -40,7 +43,28 @@
 # Course
 
 * [SEC575: Mobile Device Security and Ethical Hacking](https://www.sans.org/cyber-security-courses/mobile-device-security-ethical-hacking/)
+# Tools
+### Visualization
 
+* [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) - A graphical EVM debugger. Displays the entire program control flow graph.
+* [Slither](https://github.com/trailofbits/slither) - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
+* [Solgraph](https://github.com/raineorshine/solgraph) - Generates DOT graphs with function control flow of a solidity contract
+* [Surya](https://github.com/ConsenSys/surya) - Generates various visual outputs of function call graphs
+* [sol-function-profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
+
+### Linters
+
+* [Remix](https://remix.ethereum.org/) - Browser-based Solidity IDE with linting features
+* [SmarrtCheck](https://tool.smartdec.net/) - A linter for Solidity and Vyper that checks code for security issues and bad practices.
+* [Solhint](https://github.com/protofire/solhint) - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
+* [Solium](https://github.com/duaraghav8/Solium) - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
+### Bug Finding Tools
+
+* [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
+* [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
+* [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
+* [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 
 # Labs
 
@@ -81,6 +105,12 @@
 * [EtherHack CTF Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248) - Writeup for EtherHack CTF challenges.
 * [PolySwarm Smart Contract Hacking Challenge Writeup](https://raz0r.name/writeups/polyswarm-smart-contract-hacking-challenge-writeup/) - Demonstrates advanced use of Manticore
 
+
+# Podcasts
+
+* [CoinSec Podcast](https://coinsecpodcast.com/)
+* [The Smartest Contract](http://www.thesmartestcontract.com/)
+* [Zero Knowledge](http://www.zeroknowledge.fm/)
 
 # Cheat Sheet 
 * [Solidity Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/solidity-cheat-sheet/)
