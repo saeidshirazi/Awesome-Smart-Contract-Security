@@ -29,6 +29,7 @@
 
 * [Solidity Security: Comprehensive list of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
 * [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
+* [Subzero is an HSM-backed method for cold storage of Bitcoin developed by Square](https://medium.com/square-corner-blog/open-sourcing-subzero-ee9e3e071827) 
 
 # Paper
 * [AndrODet: An adaptive Android obfuscation detector](https://arxiv.org/pdf/1910.06192.pdf)
