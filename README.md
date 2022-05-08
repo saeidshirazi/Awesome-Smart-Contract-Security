@@ -12,7 +12,7 @@
 - [Tools](#tools)
   * [Visualization](#Visualization)
   * [Linters](#Linters)
-  * [Bug Hunting](#Bug_Hunting)
+  * [BugHunting](#BugHunting)
 
 - [Labs](#labs)
 - [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
@@ -58,7 +58,7 @@
 * [SmarrtCheck](https://tool.smartdec.net/) - A linter for Solidity and Vyper that checks code for security issues and bad practices.
 * [Solhint](https://github.com/protofire/solhint) - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
 * [Solium](https://github.com/duaraghav8/Solium) - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
-### Bug Hunting
+### BugHunting
 
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
