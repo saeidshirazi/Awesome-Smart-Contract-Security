@@ -166,9 +166,11 @@
 * [Ethereum Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/ethereum-cheat-sheet/)
 * [The Ultimate Blockchain Cheat Sheet](https://101blockchains.com/blockchain-cheat-sheet/)
 # Checklist
-* [Android Pentesting Checklist](https://mobexler.com/checklist.htm#android)
-* [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg/tree/master/Checklists)
-* [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
+* [Solidity Auditing Checklistt](https://github.com/cryptofinlabs/audit-checklist)
+* [SMART CONTRACT SECURITY CHECKLIST](https://ethereum.org/en/developers/tutorials/secure-development-workflow/)
+* [Smart Contract Security Audit: Intro & Top 5 Best Practices](https://www.getastra.com/blog/security-audit/smart-contract-security/)
+* [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/)
+* [Security checklists for Ethereum smart contract development](https://arxiv.org/pdf/2008.04761)
 
 # Bug Bounty Platforms & Project
 * [Immunefi](https://immunefi.com/explore/)
