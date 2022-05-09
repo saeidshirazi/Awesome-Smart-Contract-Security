@@ -53,11 +53,20 @@
 
 
 # Paper
-* [AndrODet: An adaptive Android obfuscation detector](https://arxiv.org/pdf/1910.06192.pdf)
-* [GEOST BOTNET - the discovery story of a new Android banking trojan](http://public.avast.com/research/VB2019-Garcia-etal.pdf)
-* [Dual-Level Android Malware Detection](https://www.mdpi.com/2073-8994/12/7/1128)
-* [An Investigation of the Android Kernel Patch Ecosystem](https://www.usenix.org/conference/usenixsecurity21/presentation/zhang)
-   
+* [Ethereum smart contract security research: survey and future research opportunities](https://link.springer.com/article/10.1007/s11704-020-9284-9)
+* [Smart contract security: A software lifecycle perspective](https://ieeexplore.ieee.org/iel7/6287639/8600701/08864988.pdf)
+* [Ethainter: a smart contract security analyzer for composite vulnerabilities](https://dl.acm.org/doi/abs/10.1145/3385412.3385990)
+* [NeuCheck: A more practical Ethereum smart contract security analysis tool](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2745)
+* [Smart contract: Attacks and protections](https://ieeexplore.ieee.org/abstract/document/8976179/)
+* [Smart contract vulnerability analysis and security audite](https://ieeexplore.ieee.org/abstract/document/9143290/)
+* [Security analysis methods on ethereum smart contract vulnerabilities: a survey](https://arxiv.org/pdf/1908.08605)
+* [Smart contract privacy protection using AI in cyber-physical systems: tools, techniques and challenges](https://ieeexplore.ieee.org/iel7/6287639/8948470/08976143.pdf)
+* [LedgerHedger: Gas Reservation for Smart-Contract Security](https://eprint.iacr.org/2022/056.pdf)
+* [Combining graph neural networks with expert knowledge for smart contract vulnerability detection](https://arxiv.org/pdf/2107.11598)
+* [Security checklists for Ethereum smart contract development: patterns and best practices](https://arxiv.org/pdf/2008.04761.pdf)
+* [Exploring Security Practices of Smart Contract Developers](https://arxiv.org/pdf/2204.11193)
+
+
 # Books
 
  * [Fundamentals of Smart Contract Security](https://www.amazon.com/Fundamentals-Smart-Contract-Security-Richard/dp/194944936X)
