@@ -161,7 +161,8 @@
 * [Solidity Security Considerations](https://docs.soliditylang.org/en/latest/security-considerations.html)
 * [A Collection of Vulnerabilities in ERC20 Smart Contracts](https://github.com/sec-bit/awesome-buggy-erc20-tokens)
 * [Examples of Solidity security issues](https://github.com/crytic/not-so-smart-contracts)
-
+* [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices)
+* [A guide to EOS smart contract security best practices](https://github.com/slowmist/eos-smart-contract-security-best-practices)
 # Podcasts
 
 * [CoinSec Podcast](https://coinsecpodcast.com/)
@@ -188,6 +189,7 @@
 * [PolySwarm Smart Contract Hacking Challenge Writeup](https://raz0r.name/writeups/polyswarm-smart-contract-hacking-challenge-writeup/) - Demonstrates advanced use of Manticore
 
 * [Write up of Metaplex Vuln 2022](https://github.com/Bonfida/metaplex-vulnerability-012022)
+* [Smart Contract security audit reports](https://github.com/TechRate/Smart-Contract-Audits)
 # Bug Bounty Platforms & Project
 * [Immunefi](https://immunefi.com/explore/)
 * [hackenproof](https://hackenproof.com/)
