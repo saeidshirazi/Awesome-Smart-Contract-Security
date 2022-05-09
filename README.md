@@ -170,6 +170,10 @@
 * [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg/tree/master/Checklists)
 * [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
 
-# Bug Bounty Platform & Report
+# Bug Bounty Platforms & Project
 * [Immunefi](https://immunefi.com/explore/)
 * [hackenproof](https://hackenproof.com/)
+* [ETHEREUM Bounty Program](https://bounty.ethereum.org/#bounty-scope)
+* [Etherscan Bugbounty Program](https://etherscan.io/bugbounty)
+* [Parity Bug Bounty Program](https://www.parity.io/bug-bounty/)
+* [Gitcoint project](https://gitcoin.co/explorer?network=mainnet&idx_status=open&applicants=ALL&order_by=-web3_created)
