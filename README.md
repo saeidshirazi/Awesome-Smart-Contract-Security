@@ -20,14 +20,14 @@
 - [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
 - [Talks](#talks)
 - [Misc](#misc)
-- [Bug Bounty & Writeups](#Bug-Bounty-&-Writeup)
 - [Podcasts](#Podcasts)
 - [Cheat Sheet](#Cheat-Sheet)
 - [Checklist](#Checklist)
 - [Bug Bounty Report](#Bug-Bounty-Report)
-
+- [Bug Bounty & Writeups](#Bug-Bounty-&-Writeup)
 # Blog
 
+* [Reversing Ethereum Smart Contracts](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 * [Emin Gün Sirer, professor in Cornell Tech’s IC3 lab focused on blockchain security.](http://hackingdistributed.com/) 
 * [ Phil Daian, grad student behind KEVM, Hydra, and other Ethereum academic projects](https://pdaian.com/blog/) 
 * [Cybersecurity R&D firm with a blockchain security practice](https://blog.trailofbits.com/) 
@@ -73,6 +73,19 @@
  * [Hands-On Smart Contract Development with Solidity and Ethereum ](https://www.oreilly.com/library/view/hands-on-smart-contract/9781492045250/ch12.html)
  * [Mastering Ethereum](https://www.bookstack.cn/read/ethereumbook-en/a09dd11523647de0.md)
 
+### Security Journal list
+
+* IEEE Transactions on Information Forensics and Security [[web]](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+* Computer & Security[[web]](http://www.elsevier.com/wps/find/journaldescription.cws_home/405877/description#description)
+* IET Information Security[[web]](http://www.ietdl.org/IET-IFS)
+* ACM Transactions on Information and System Security[[web]](http://tissec.acm.org/)
+* International Journal of Information Security[[web]](http://www.springerlink.com/content/107927/)
+* Security and Communication Networks[[web]](http://www.wiley.com/bw/journal.asp?ref=1939-0114)
+* IEEE Security & Privacy[[web]](	http://www.computer.org/portal/web/security/home)
+* IEEE Transactions on Dependable and Secure Computing [[web]](http://www.computer.org/tdsc/)
+* Security and Communication Networks[[web]](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122)
+* Computer Fraud & Security[[web]](http://www.elsevierscitech.com/nl/cfs/home.asp )
+
 # Course
 
 * [SEC575: Mobile Device Security and Ethical Hacking](https://www.sans.org/cyber-security-courses/mobile-device-security-ethical-hacking/)
@@ -116,8 +129,9 @@
 * [Rattle](https://github.com/trailofbits/rattle) - EVM binary static analysis framework. Produces SSA representations of EVM code.
 # Labs
 
-* [Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)  
-* [OVAA (Oversecured Vulnerable Android App)](https://github.com/oversecured/ovaa)
+* [Smart Contract Labs](https://smartcontractlabs.ee/)  
+* [ChainLink Lab](https://chainlinklabs.com/)
+* [A lab that focuses on smart contract security](https://github.com/JonZeolla/lab-SmartContractSecurity)
 
 # Capture the Flag and Wargames
 
@@ -146,13 +160,7 @@
 * [Decentralized Application Security Project (or DASP) Top 10](https://www.dasp.co/)
 * [Solidity Security Considerations](https://docs.soliditylang.org/en/latest/security-considerations.html)
 * [A Collection of Vulnerabilities in ERC20 Smart Contracts](https://github.com/sec-bit/awesome-buggy-erc20-tokens)
-# Bug Bounty & Writeup
-
-* [Hands on the Ethernaut CTF](https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/) - Writeups for various Ethernaut CTF challenge contracts.
-* [Ethernaut - Naught Coin (ERC20) Exploitation](https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b) - Writeup for a vulnerable ERC20 from the Ethernaut CTF.
-* [EtherHack CTF Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248) - Writeup for EtherHack CTF challenges.
-* [PolySwarm Smart Contract Hacking Challenge Writeup](https://raz0r.name/writeups/polyswarm-smart-contract-hacking-challenge-writeup/) - Demonstrates advanced use of Manticore
-
+* [Examples of Solidity security issues](https://github.com/crytic/not-so-smart-contracts)
 
 # Podcasts
 
@@ -172,6 +180,14 @@
 * [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/)
 * [Security checklists for Ethereum smart contract development](https://arxiv.org/pdf/2008.04761)
 
+# Bug Bounty & Writeup
+
+* [Hands on the Ethernaut CTF](https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/) - Writeups for various Ethernaut CTF challenge contracts.
+* [Ethernaut - Naught Coin (ERC20) Exploitation](https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b) - Writeup for a vulnerable ERC20 from the Ethernaut CTF.
+* [EtherHack CTF Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248) - Writeup for EtherHack CTF challenges.
+* [PolySwarm Smart Contract Hacking Challenge Writeup](https://raz0r.name/writeups/polyswarm-smart-contract-hacking-challenge-writeup/) - Demonstrates advanced use of Manticore
+
+* [Write up of Metaplex Vuln 2022](https://github.com/Bonfida/metaplex-vulnerability-012022)
 # Bug Bounty Platforms & Project
 * [Immunefi](https://immunefi.com/explore/)
 * [hackenproof](https://hackenproof.com/)
