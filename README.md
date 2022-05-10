@@ -90,6 +90,11 @@
 
 * [SEC554: Blockchain and Smart Contract Security](https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/)
 * [Ethereum Smart Contract Security](https://academy.moralis.io/courses/ethereum-smart-contract-security)
+* [Solidity, Blockchain, and Smart Contract Course ](https://www.youtube.com/watch?v=M576WGiDBdQ)
+
+* [Smart Contract Security 101](https://pro.eattheblocks.com/p/smart-contract-security-101)
+* [Certified Blockchain Security Professional (CBSP)](https://blockchaintrainingalliance.com/products/cbsp)
+* [Learn blockchain security](https://www.infosecinstitute.com/skills/learning-paths/blockchain-security/)
 # Tools
 ### Visualization
 
