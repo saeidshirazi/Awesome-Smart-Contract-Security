@@ -88,7 +88,8 @@
 
 # Course
 
-* [SEC575: Mobile Device Security and Ethical Hacking](https://www.sans.org/cyber-security-courses/mobile-device-security-ethical-hacking/)
+* [SEC554: Blockchain and Smart Contract Security](https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/)
+* [Ethereum Smart Contract Security](https://academy.moralis.io/courses/ethereum-smart-contract-security)
 # Tools
 ### Visualization
 
