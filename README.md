@@ -163,6 +163,7 @@
 | [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) | EkoParty | 2017 |
 # Misc
 
+* [Hacking Smart Contracts: Beginners Guide](https://learn.block6.tech/hacking-smart-contracts-beginners-guide-9c84e9de7194)
 * [Security Pitfalls & Best Practices 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101?s=r)
 * [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices)    
 * [Decentralized Application Security Project (or DASP) Top 10](https://www.dasp.co/)
