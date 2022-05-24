@@ -5,10 +5,10 @@
 
 
 # Table of Contents
-- [Blog](#blog)
-- [Paper](#paper)
+- [Blogs](#blogs)
+- [Papers](#papers)
 - [Books](#books)
-- [Course](#course)
+- [Trainings](#Trainings)
 - [Tools](#tools)
   * [Visualization](#Visualization)
   * [Verification](#Verification)
@@ -21,11 +21,11 @@
 - [Talks](#talks)
 - [Misc](#misc)
 - [Podcasts](#Podcasts)
-- [Cheat Sheet](#Cheat-Sheet)
-- [Checklist](#Checklist)
-- [Bug Bounty Report](#Bug-Bounty-Report)
-- [Bug Bounty & Writeups](#Bug-Bounty-&-Writeup)
-# Blog
+- [Cheat Sheets](#Cheat-Sheets)
+- [Checklists](#Checklists)
+- [Bug Bounty Reports & Writeups](#Bug-Bounty-Reports)
+- [Bug Bounty Platforms & Projects](#Bug-Bounty-Platforms-&-Projects)
+# Blogs
 
 * [Reversing Ethereum Smart Contracts](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 * [Emin Gün Sirer, professor in Cornell Tech’s IC3 lab focused on blockchain security.](http://hackingdistributed.com/) 
@@ -52,7 +52,7 @@
 * [Vertcoin (VTC) was successfully 51% attacked](https://medium.com/coinmonks/vertcoin-vtc-is-currently-being-51-attacked-53ab633c08a4)
 
 
-# Paper
+# Papers
 * [Ethereum smart contract security research: survey and future research opportunities](https://link.springer.com/article/10.1007/s11704-020-9284-9)
 * [Smart contract security: A software lifecycle perspective](https://ieeexplore.ieee.org/iel7/6287639/8600701/08864988.pdf)
 * [Ethainter: a smart contract security analyzer for composite vulnerabilities](https://dl.acm.org/doi/abs/10.1145/3385412.3385990)
@@ -86,7 +86,7 @@
 * Security and Communication Networks[[web]](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122)
 * Computer Fraud & Security[[web]](http://www.elsevierscitech.com/nl/cfs/home.asp )
 
-# Course
+# Trainings
 
 * [SEC554: Blockchain and Smart Contract Security](https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/)
 * [Ethereum Smart Contract Security](https://academy.moralis.io/courses/ethereum-smart-contract-security)
@@ -178,19 +178,19 @@
 * [The Smartest Contract](http://www.thesmartestcontract.com/)
 * [Zero Knowledge](http://www.zeroknowledge.fm/)
 
-# Cheat Sheet 
+# Cheat Sheets 
 * [Solidity Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/solidity-cheat-sheet/)
 * [Solidity Cheatsheet and Best practices](https://github.com/manojpramesh/solidity-cheatsheet)
 * [Ethereum Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/ethereum-cheat-sheet/)
 * [The Ultimate Blockchain Cheat Sheet](https://101blockchains.com/blockchain-cheat-sheet/)
-# Checklist
+# Checklists
 * [Solidity Auditing Checklistt](https://github.com/cryptofinlabs/audit-checklist)
 * [SMART CONTRACT SECURITY CHECKLIST](https://ethereum.org/en/developers/tutorials/secure-development-workflow/)
 * [Smart Contract Security Audit: Intro & Top 5 Best Practices](https://www.getastra.com/blog/security-audit/smart-contract-security/)
 * [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/)
 * [Security checklists for Ethereum smart contract development](https://arxiv.org/pdf/2008.04761)
 
-# Bug Bounty & Writeup
+# Bug Bounty & Writeups
 
 * [Hands on the Ethernaut CTF](https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/) - Writeups for various Ethernaut CTF challenge contracts.
 * [Ethernaut - Naught Coin (ERC20) Exploitation](https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b) - Writeup for a vulnerable ERC20 from the Ethernaut CTF.
