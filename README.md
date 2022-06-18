@@ -53,6 +53,7 @@
 
 
 # Papers
+* [Security Strengths and Weaknesses of Blockchain Smart Contract System: A Survey](https://www.researchgate.net/profile/Malaw-Ndiaye/publication/360624196_Security_Strengths_and_Weaknesses_of_Blockchain_Smart_Contract_System_A_Survey/links/62824c3590841d5155d7dbb7/Security-Strengths-and-Weaknesses-of-Blockchain-Smart-Contract-System-A-Survey.pdf)
 * [Ethereum smart contract security research: survey and future research opportunities](https://link.springer.com/article/10.1007/s11704-020-9284-9)
 * [Smart contract security: A software lifecycle perspective](https://ieeexplore.ieee.org/iel7/6287639/8600701/08864988.pdf)
 * [Ethainter: a smart contract security analyzer for composite vulnerabilities](https://dl.acm.org/doi/abs/10.1145/3385412.3385990)
