@@ -1,4 +1,7 @@
 # Awesome-Smart-Contract-Security ![awesome](https://awesome.re/badge.svg)
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 ![Screenshot](img/SmartContract.png)
 
  
