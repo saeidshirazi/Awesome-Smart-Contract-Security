@@ -1,10 +1,5 @@
 # Awesome-Smart-Contract-Security ![awesome](https://awesome.re/badge.svg)
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-![Screenshot](img/SmartContract.png)
 
- 
 
 
 # Table of Contents
@@ -214,4 +209,4 @@
 * [Smartlink Dapps](https://www.smartlink.so/bug-bounty/)
 
 
-[forks-url]: https://github.com/saeidshirazi/Awesome-Smart-Contract-Security/network/members
+
