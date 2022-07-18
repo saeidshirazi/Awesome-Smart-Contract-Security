@@ -14,15 +14,28 @@
   * [BugHunting](#BugHunting)
   * [Reverse Engineering](#Reverse_Engineering)
 
+- [Awesome-Smart-Contract-Security !awesome](#awesome-smart-contract-security-)
+- [Table of Contents](#table-of-contents)
+- [Blogs](#blogs)
+- [Papers](#papers)
+- [Books](#books)
+    - [Security Journal list](#security-journal-list)
+- [Trainings](#trainings)
+- [Tools](#tools)
+    - [Visualization](#visualization)
+    - [Verification](#verification)
+    - [Linters](#linters)
+    - [BugHunting](#bughunting)
+    - [Reverse Engineering](#reverse-engineering)
 - [Labs](#labs)
 - [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
 - [Talks](#talks)
 - [Misc](#misc)
-- [Podcasts](#Podcasts)
-- [Cheat Sheets](#Cheat-Sheets)
-- [Checklists](#Checklists)
-- [Bug Bounty Reports & Writeups](#Bug-Bounty-Reports)
-- [Bug Bounty Platforms & Projects](#Bug-Bounty-Platforms-&-Projects)
+- [Podcasts](#podcasts)
+- [Cheat Sheets](#cheat-sheets)
+- [Checklists](#checklists)
+- [Bug Bounty & Writeups](#bug-bounty--writeups)
+- [Bug Bounty Platforms & Project](#bug-bounty-platforms--project)
 # Blogs
 
 * [Reversing Ethereum Smart Contracts](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
@@ -119,7 +132,7 @@
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
-* [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
+* [Securify v2.0](https://github.com/eth-sri/securify2) - Static analysis tool from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 * [Octopus](https://github.com/pventuzelo/octopus) - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 ### Reverse Engineering
