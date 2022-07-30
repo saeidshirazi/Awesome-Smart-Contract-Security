@@ -101,7 +101,8 @@
 # Trainings
 
 * [SEC554: Blockchain and Smart Contract Security](https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/)
-* [Ethereum Smart Contract Security](https://academy.moralis.io/courses/ethereum-smart-contract-security)
+* [SecDim](https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/)
+* [Ethereum Smart Contract Security](https://secdim.com)
 * [Solidity, Blockchain, and Smart Contract Course ](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
 * [Smart Contract Security 101](https://pro.eattheblocks.com/p/smart-contract-security-101)
