@@ -188,7 +188,7 @@
 # Podcasts
 
 * [CoinSec Podcast](https://coinsecpodcast.com/)
-* [The Smartest Contract](http://www.thesmartestcontract.com/)
+* [The Smartest Contract](https://www.listennotes.com/podcasts/the-smartest-contract-jeffrey-tong-DmE7O9AYifI/)
 * [Zero Knowledge](http://www.zeroknowledge.fm/)
 
 # Cheat Sheets 
