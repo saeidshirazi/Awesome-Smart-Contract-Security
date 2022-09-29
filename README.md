@@ -38,6 +38,7 @@
 - [Bug Bounty Platforms & Project](#bug-bounty-platforms--project)
 # Blogs
 
+* [Ethernaut CTF walkthrough with Brownie framework](https://securitypills.news/articles/ethernaut/)
 * [Sizing Solidity Audits](https://blog.coinfabrik.com/tools/sizing-solidity-audits/)
 * [Reversing Ethereum Smart Contracts](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 * [Emin Gün Sirer, professor in Cornell Tech’s IC3 lab focused on blockchain security.](http://hackingdistributed.com/) 
