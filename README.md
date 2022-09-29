@@ -14,15 +14,28 @@
   * [BugHunting](#BugHunting)
   * [Reverse Engineering](#Reverse_Engineering)
 
+- [Awesome-Smart-Contract-Security !awesome](#awesome-smart-contract-security-)
+- [Table of Contents](#table-of-contents)
+- [Blogs](#blogs)
+- [Papers](#papers)
+- [Books](#books)
+    - [Security Journal list](#security-journal-list)
+- [Trainings](#trainings)
+- [Tools](#tools)
+    - [Visualization](#visualization)
+    - [Verification](#verification)
+    - [Linters](#linters)
+    - [BugHunting](#bughunting)
+    - [Reverse Engineering](#reverse-engineering)
 - [Labs](#labs)
 - [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
 - [Talks](#talks)
 - [Misc](#misc)
-- [Podcasts](#Podcasts)
-- [Cheat Sheets](#Cheat-Sheets)
-- [Checklists](#Checklists)
-- [Bug Bounty Reports & Writeups](#Bug-Bounty-Reports)
-- [Bug Bounty Platforms & Projects](#Bug-Bounty-Platforms-&-Projects)
+- [Podcasts](#podcasts)
+- [Cheat Sheets](#cheat-sheets)
+- [Checklists](#checklists)
+- [Bug Bounty & Writeups](#bug-bounty--writeups)
+- [Bug Bounty Platforms & Project](#bug-bounty-platforms--project)
 # Blogs
 
 * [Sizing Solidity Audits](https://blog.coinfabrik.com/tools/sizing-solidity-audits/)
@@ -89,12 +102,13 @@
 # Trainings
 
 * [SEC554: Blockchain and Smart Contract Security](https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/)
+* [SecDim](https://secdim.com)
 * [Ethereum Smart Contract Security](https://academy.moralis.io/courses/ethereum-smart-contract-security)
 * [Solidity, Blockchain, and Smart Contract Course ](https://www.youtube.com/watch?v=M576WGiDBdQ)
-
 * [Smart Contract Security 101](https://pro.eattheblocks.com/p/smart-contract-security-101)
 * [Certified Blockchain Security Professional (CBSP)](https://blockchaintrainingalliance.com/products/cbsp)
 * [Learn blockchain security](https://www.infosecinstitute.com/skills/learning-paths/blockchain-security/)
+
 # Tools
 ### Visualization
 
@@ -120,7 +134,7 @@
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
-* [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
+* [Securify v2.0](https://github.com/eth-sri/securify2) - Static analysis tool from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 * [Octopus](https://github.com/pventuzelo/octopus) - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 ### Reverse Engineering
@@ -175,7 +189,7 @@
 # Podcasts
 
 * [CoinSec Podcast](https://coinsecpodcast.com/)
-* [The Smartest Contract](http://www.thesmartestcontract.com/)
+* [The Smartest Contract](https://www.listennotes.com/podcasts/the-smartest-contract-jeffrey-tong-DmE7O9AYifI/)
 * [Zero Knowledge](http://www.zeroknowledge.fm/)
 
 # Cheat Sheets 
