@@ -25,6 +25,7 @@
 - [Bug Bounty Platforms & Projects](#Bug-Bounty-Platforms-&-Projects)
 # Blogs
 
+* [Sizing Solidity Audits](https://blog.coinfabrik.com/tools/sizing-solidity-audits/)
 * [Reversing Ethereum Smart Contracts](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 * [Emin Gün Sirer, professor in Cornell Tech’s IC3 lab focused on blockchain security.](http://hackingdistributed.com/) 
 * [ Phil Daian, grad student behind KEVM, Hydra, and other Ethereum academic projects](https://pdaian.com/blog/) 
