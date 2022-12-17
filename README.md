@@ -63,6 +63,7 @@
 * [The phenomenon of smart contract honeypots](https://medium.com/@gerhard.wagner/the-phenomena-of-smart-contract-honeypots-755c1f943f7b)
 * [Use our suite of Ethereum security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)
 * [Vertcoin (VTC) was successfully 51% attacked](https://medium.com/coinmonks/vertcoin-vtc-is-currently-being-51-attacked-53ab633c08a4)
+* [Smart contract security audit: tips & tricks](https://www.cossacklabs.com/blog/smart-contract-security-audit-tips-tricks/)
 
 
 # Papers
