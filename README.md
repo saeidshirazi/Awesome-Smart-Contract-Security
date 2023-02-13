@@ -150,6 +150,10 @@
 * [Panoramix](http://eveem.org/about)
 * [pyevmasm](https://github.com/trailofbits/pyevmasm) - EVM assembler and disassembler with a CLI and a Python API
 * [Rattle](https://github.com/trailofbits/rattle) - EVM binary static analysis framework. Produces SSA representations of EVM code.
+* [Solidity Bytes32 Converter Online ](https://neptunemutual.com/web3-tools/string-to-bytes32-converter/) - Convert Solidity bytes32 to utf8 string or integers and vice versa.
+* [Online Solidity ABI Encoder](https://neptunemutual.com/web3-tools/solidity-abi-encoder-online/) - Online Solidity ABI Encoder to encode smart contract arguments, and also perform read and write operations on the blockchain.
+* [Ethereum Unit Converter](https://neptunemutual.com/web3-tools/ethereum-unit-converter/) - Online tool to convert the different ethereum denominations (wei, gwei, ether).
+
 # Labs
 
 * [Smart Contract Labs](https://smartcontractlabs.ee/)  
