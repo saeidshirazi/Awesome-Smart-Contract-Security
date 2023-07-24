@@ -226,6 +226,6 @@
 * [Gitcoint project](https://gitcoin.co/explorer?network=mainnet&idx_status=open&applicants=ALL&order_by=-web3_created)
 * [Code Arena Bugbounty project](https://code4rena.com/)
 * [Smartlink Dapps](https://www.smartlink.so/bug-bounty/)
-
-
+* [Bug Rap](https://bugrap.io/)
+* [Bug Bounty Programs 2023](https://hackenproof.com/programs?page=4)
 
