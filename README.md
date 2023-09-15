@@ -53,7 +53,7 @@
 * [Initial Formal Verification of Ethereum Casper Protocol](https://runtimeverification.com/blog/runtime-verification-completes-formal-verification-of-ethereum-casper-protocol/)
 * [Security considerations for Shamir's secret sharing](https://ethresear.ch/t/security-considerations-for-shamirs-secret-sharing/4294)
 * [SmartDec smart contract audit beginner's guide](https://blog.smartdec.net/smartdec-smart-contract-audit-beginners-guide-d04cc7f1c571)
-* [The Anatomy of a Block Stuffing Attack](https://osolmaz.com/2018/10/18/anatomy-block-stuffing/)
+* [The Anatomy of a Block Stuffing Attack](https://medium.com/hackernoon/the-anatomy-of-a-block-stuffing-attack-a488698732ae)
 * [The phenomenon of smart contract honeypots](https://medium.com/@gerhard.wagner/the-phenomena-of-smart-contract-honeypots-755c1f943f7b)
 * [Use our suite of Ethereum security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)
 * [Vertcoin (VTC) was successfully 51% attacked](https://medium.com/coinmonks/vertcoin-vtc-is-currently-being-51-attacked-53ab633c08a4)
@@ -88,9 +88,9 @@
 * Computer & Security[[web]](http://www.elsevier.com/wps/find/journaldescription.cws_home/405877/description#description)
 * IET Information Security[[web]](http://www.ietdl.org/IET-IFS)
 * ACM Transactions on Information and System Security[[web]](http://tissec.acm.org/)
-* International Journal of Information Security[[web]](http://www.springerlink.com/content/107927/)
+* International Journal of Information Security[[web]](https://www.springer.com/journal/10207)
 * Security and Communication Networks[[web]](http://www.wiley.com/bw/journal.asp?ref=1939-0114)
-* IEEE Security & Privacy[[web]](	http://www.computer.org/portal/web/security/home)
+* IEEE Security & Privacy[[web]](https://www.computer.org/csdl/magazine/sp)
 * IEEE Transactions on Dependable and Secure Computing [[web]](http://www.computer.org/tdsc/)
 * Security and Communication Networks[[web]](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122)
 * Computer Fraud & Security[[web]](http://www.elsevierscitech.com/nl/cfs/home.asp )
@@ -141,7 +141,7 @@
 * [Ethersplay](https://github.com/trailofbits/ethersplay) - Visual disassembler for EVM bytecode built on Binary Ninja
 * [evmlab](https://github.com/ethereum/evmlab) - Utilities for interacting with the Ethereum virtual machine
 * [IDA-EVM](https://github.com/trailofbits/ida-evm) - IDA plugin to view EVM instructions
-* [Panoramix](http://eveem.org/about)
+* [Panoramix](https://github.com/palkeo/panoramix) - Ethereum decompiler
 * [pyevmasm](https://github.com/trailofbits/pyevmasm) - EVM assembler and disassembler with a CLI and a Python API
 * [Rattle](https://github.com/trailofbits/rattle) - EVM binary static analysis framework. Produces SSA representations of EVM code.
 * [Solidity Bytes32 Converter Online ](https://neptunemutual.com/web3-tools/string-to-bytes32-converter/) - Convert Solidity bytes32 to utf8 string or integers and vice versa.
