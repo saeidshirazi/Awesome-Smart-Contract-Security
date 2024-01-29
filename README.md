@@ -134,6 +134,7 @@
 * [Securify v2.0](https://github.com/eth-sri/securify2) - Static analysis tool from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 * [Octopus](https://github.com/pventuzelo/octopus) - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
+* [L3X](https://github.com/VulnPlanet/l3x) - AI-driven Smart Contract Static Analyzer
 ### Reverse Engineering
 
 * [abi-decompiler](https://github.com/beched/abi-decompiler) - EVM reverse engineering helper utility
