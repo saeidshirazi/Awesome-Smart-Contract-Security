@@ -127,6 +127,7 @@
 * [Solium](https://github.com/duaraghav8/Solium) - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
 ### BugHunting
 
+* [Aegis](https://github.com/StanleytheGoat/aegis) - DeFi safety MCP server and smart contract scanner. Scans contracts against 165 exploit patterns including honeypots, rug pulls, reentrancy, and oracle manipulation. Simulates transactions on forked chains before execution and provides on-chain enforcement on Base mainnet.
 * [Web3 Decoder](https://github.com/nccgroup/web3-decoder) - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
