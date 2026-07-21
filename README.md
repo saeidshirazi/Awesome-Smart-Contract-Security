@@ -133,6 +133,7 @@
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Securify v2.0](https://github.com/eth-sri/securify2) - Static analysis tool from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
+* [OpenClaw Audit](https://github.com/juan23z/openclaw-audit) - Free heuristic static analysis scanner for Solidity with a GitHub Action; 12 detectors, calibrated to 0 findings across the OpenZeppelin library. No API keys, MIT.
 * [Octopus](https://github.com/pventuzelo/octopus) - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [L3X](https://github.com/VulnPlanet/l3x) - AI-driven Smart Contract Static Analyzer
 ### Runtime Monitoring & Scam Detection
