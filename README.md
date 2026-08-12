@@ -146,6 +146,7 @@ These tools complement static analysis by watching contracts post-deployment for
 * [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics for ERC-20 tokens.
 * [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Token risk scanner for EVM and Solana assets, covering liquidity, holder, ownership, authority, and honeypot signals
 * [ContractScan](https://github.com/dutchaiagency/contractscan-api) - Free client-side smart contract security scanner. Detects proxies, honeypots, rug pulls, and 11 vulnerability patterns across 6 EVM chains. Works in browser, no signup needed.
+* [OpenChainBench](https://openchainbench.com) - Real-time oracle deviation monitoring (Chainlink, Pyth, Redstone), RPC stale-state benchmarks, and MEV-protection RPC reliability tracking. Open-source, MIT licensed.
 ### Reverse Engineering
 
 * [abi-decompiler](https://github.com/beched/abi-decompiler) - EVM reverse engineering helper utility
