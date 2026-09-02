@@ -136,6 +136,7 @@
 * [OpenClaw Audit](https://github.com/juan23z/openclaw-audit) - Free heuristic static analysis scanner for Solidity with a GitHub Action; 12 detectors, calibrated to 0 findings across the OpenZeppelin library. No API keys, MIT.
 * [Octopus](https://github.com/pventuzelo/octopus) - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [L3X](https://github.com/VulnPlanet/l3x) - AI-driven Smart Contract Static Analyzer
+* [Al-Mizaan Judge](https://github.com/holistis/al-mizaan-judge) - CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it
 ### Runtime Monitoring & Scam Detection
 
 These tools complement static analysis by watching contracts post-deployment for honeypots, rug pulls, and adversarial deployer patterns. Most are free to use.
