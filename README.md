@@ -137,6 +137,7 @@
 * [Octopus](https://github.com/pventuzelo/octopus) - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [L3X](https://github.com/VulnPlanet/l3x) - AI-driven Smart Contract Static Analyzer
 * [Al-Mizaan Judge](https://github.com/holistis/al-mizaan-judge) - CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it
+* [EVM Smart Audit](https://github.com/evmsmart/solidity-detectors) - Twenty AST-based detectors for Solidity mapped to SWC and the OWASP Smart Contract Top 10; reports the checks that passed as well as the ones that fired. MIT.
 ### Runtime Monitoring & Scam Detection
 
 These tools complement static analysis by watching contracts post-deployment for honeypots, rug pulls, and adversarial deployer patterns. Most are free to use.
