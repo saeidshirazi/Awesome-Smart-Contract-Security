@@ -236,6 +236,7 @@ These tools complement static analysis by watching contracts post-deployment for
 * [hackenproof](https://hackenproof.com/)
 * [ETHEREUM Bounty Program](https://bounty.ethereum.org/#bounty-scope)
 *  [Hashlock](https://hashlock.com/)
+* [Hackerbane](https://hackerbane.com/reports)
 * [Etherscan Bugbounty Program](https://etherscan.io/bugbounty)
 * [Parity Bug Bounty Program](https://www.parity.io/bug-bounty/)
 * [Gitcoint project](https://gitcoin.co/explorer?network=mainnet&idx_status=open&applicants=ALL&order_by=-web3_created)
