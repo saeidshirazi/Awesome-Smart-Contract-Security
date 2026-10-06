@@ -251,3 +251,5 @@ These tools complement static analysis by watching contracts post-deployment for
 - [MetaVision CVE Oracle](https://metavision.click/cve) - Web3 vulnerability scanner. 355k+ CVEs from NVD, specialized in Ethereum/Solidity/DeFi. Wallet fraud + rug pull detection (ChainAware). API: POST /cve {"keyword": "solidity"}
 - [Kerne Verify Anything](https://kerne.fi/verify-anything) - Free, open, no-login client-side tool to verify any stablecoin's on-chain reserves, signed reserve attestations, and ERC-4626 vault accounting in the browser.
 - [Bounty Radar](https://agent.zbang.net/radar/) - Free live dashboard of Immunefi bug bounty programs, filterable by no-KYC payout and Safe Harbor status, cross-checked against GitHub code liveness for in-scope repos.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
+
