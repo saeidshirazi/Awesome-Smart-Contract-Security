@@ -246,6 +246,7 @@ These tools complement static analysis by watching contracts post-deployment for
 * [Smartlink Dapps](https://www.smartlink.so/bug-bounty/)
 * [Bug Rap](https://bugrap.io/)
 * [Bug Bounty Programs 2026](https://hackenproof.com/programs?page=4)
+* [BlazePhoenix Bug Bounty](https://blazephoenix.xyz/bounty)
 
 
 
