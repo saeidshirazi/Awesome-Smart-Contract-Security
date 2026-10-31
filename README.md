@@ -138,6 +138,7 @@
 * [Octopus](https://github.com/pventuzelo/octopus) - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [L3X](https://github.com/VulnPlanet/l3x) - AI-driven Smart Contract Static Analyzer
 * [Al-Mizaan Judge](https://github.com/holistis/al-mizaan-judge) - CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it
+* [EVM Smart Audit](https://github.com/evmsmart/solidity-detectors) - Twenty AST-based detectors for Solidity mapped to SWC and the OWASP Smart Contract Top 10; reports the checks that passed as well as the ones that fired. MIT.
 ### Runtime Monitoring & Scam Detection
 
 These tools complement static analysis by watching contracts post-deployment for honeypots, rug pulls, and adversarial deployer patterns. Most are free to use.
@@ -148,9 +149,12 @@ These tools complement static analysis by watching contracts post-deployment for
 * [RektRadar](https://rektradar.io/) - Real-time Ethereum scam detector with mempool monitoring, deployer graph analysis, and factory pattern detection. Catches rug pulls mid-broadcast and flags honeypots before liquidity is added.
 * [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics for ERC-20 tokens.
 * [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Token risk scanner for EVM and Solana assets, covering liquidity, holder, ownership, authority, and honeypot signals
+* [Quantum Audit](https://quantumaudit.app/token/) - Public dashboard of dated token security records for new and established tokens on Ethereum, BNB Chain, Base, Arbitrum, Polygon and Solana: mint, freeze and owner powers, taxes, liquidity lock or burn and holder concentration, combined into a deterministic 0–100 risk score with every factor shown.
 * [ContractScan](https://github.com/dutchaiagency/contractscan-api) - Free client-side smart contract security scanner. Detects proxies, honeypots, rug pulls, and 11 vulnerability patterns across 6 EVM chains. Works in browser, no signup needed.
 * [OpenChainBench](https://openchainbench.com) - Real-time oracle deviation monitoring (Chainlink, Pyth, Redstone), RPC stale-state benchmarks, and MEV-protection RPC reliability tracking. Open-source, MIT licensed.
 * [EIP-712 Inspector](https://github.com/Dansgit2b/eip712-inspector) - Browser-only check of eth_signTypedData_v4 payloads before signing: flags Permit/Permit2/Seaport orders, unlimited amounts, far deadlines and chainId mismatches; computes the digest and recovers the signer.
+* [ChainSift](https://chainsift.org/) - Free token check on 6 EVM chains: simulates a buy and a sell against the token's real pool, shows buy/sell tax, mint and pause rights, liquidity locks and holder concentration. Each check is a public, dated page.
+* [Gliese Watch](https://gliese.io) - Control-change monitoring for six EVM chains: records proxy upgrades, owner and admin changes, Safe signer changes, role grants and timelock queues, and shows who controls each contract. The public feed and per-contract history are free.
 ### Reverse Engineering
 
 * [abi-decompiler](https://github.com/beched/abi-decompiler) - EVM reverse engineering helper utility
@@ -239,6 +243,7 @@ These tools complement static analysis by watching contracts post-deployment for
 * [hackenproof](https://hackenproof.com/)
 * [ETHEREUM Bounty Program](https://bounty.ethereum.org/#bounty-scope)
 *  [Hashlock](https://hashlock.com/)
+* [Hackerbane](https://hackerbane.com/reports)
 * [Etherscan Bugbounty Program](https://etherscan.io/bugbounty)
 * [Parity Bug Bounty Program](https://www.parity.io/bug-bounty/)
 * [Gitcoint project](https://gitcoin.co/explorer?network=mainnet&idx_status=open&applicants=ALL&order_by=-web3_created)
@@ -246,6 +251,7 @@ These tools complement static analysis by watching contracts post-deployment for
 * [Smartlink Dapps](https://www.smartlink.so/bug-bounty/)
 * [Bug Rap](https://bugrap.io/)
 * [Bug Bounty Programs 2026](https://hackenproof.com/programs?page=4)
+* [BlazePhoenix Bug Bounty](https://blazephoenix.xyz/bounty)
 
 
 
@@ -253,3 +259,5 @@ These tools complement static analysis by watching contracts post-deployment for
 - [MetaVision CVE Oracle](https://metavision.click/cve) - Web3 vulnerability scanner. 355k+ CVEs from NVD, specialized in Ethereum/Solidity/DeFi. Wallet fraud + rug pull detection (ChainAware). API: POST /cve {"keyword": "solidity"}
 - [Kerne Verify Anything](https://kerne.fi/verify-anything) - Free, open, no-login client-side tool to verify any stablecoin's on-chain reserves, signed reserve attestations, and ERC-4626 vault accounting in the browser.
 - [Bounty Radar](https://agent.zbang.net/radar/) - Free live dashboard of Immunefi bug bounty programs, filterable by no-KYC payout and Safe Harbor status, cross-checked against GitHub code liveness for in-scope repos.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
+
