@@ -138,6 +138,7 @@
 * [Octopus](https://github.com/pventuzelo/octopus) - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [L3X](https://github.com/VulnPlanet/l3x) - AI-driven Smart Contract Static Analyzer
 * [Al-Mizaan Judge](https://github.com/holistis/al-mizaan-judge) - CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it
+* [Tanod Slither detectors](https://github.com/tanod-labs/slither-detectors) - Slither plugin with nine detectors for recurring DeFi bug classes (unchecked ERC-20 calls, AMM spot prices, zero slippage, swap deadlines, ERC-4626 inflation, ecrecover, signature replay, stale Chainlink prices), with vulnerable/fixed test fixtures and a [GitHub Action](https://github.com/tanod-labs/pactlint-action). MIT.
 * [EVM Smart Audit](https://github.com/evmsmart/solidity-detectors) - Twenty AST-based detectors for Solidity mapped to SWC and the OWASP Smart Contract Top 10; reports the checks that passed as well as the ones that fired. MIT.
 ### Runtime Monitoring & Scam Detection
 
