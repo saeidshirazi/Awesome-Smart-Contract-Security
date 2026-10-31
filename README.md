@@ -152,6 +152,7 @@ These tools complement static analysis by watching contracts post-deployment for
 * [Quantum Audit](https://quantumaudit.app/token/) - Public dashboard of dated token security records for new and established tokens on Ethereum, BNB Chain, Base, Arbitrum, Polygon and Solana: mint, freeze and owner powers, taxes, liquidity lock or burn and holder concentration, combined into a deterministic 0–100 risk score with every factor shown.
 * [ContractScan](https://github.com/dutchaiagency/contractscan-api) - Free client-side smart contract security scanner. Detects proxies, honeypots, rug pulls, and 11 vulnerability patterns across 6 EVM chains. Works in browser, no signup needed.
 * [OpenChainBench](https://openchainbench.com) - Real-time oracle deviation monitoring (Chainlink, Pyth, Redstone), RPC stale-state benchmarks, and MEV-protection RPC reliability tracking. Open-source, MIT licensed.
+* [EIP-712 Inspector](https://github.com/Dansgit2b/eip712-inspector) - Browser-only check of eth_signTypedData_v4 payloads before signing: flags Permit/Permit2/Seaport orders, unlimited amounts, far deadlines and chainId mismatches; computes the digest and recovers the signer.
 * [ChainSift](https://chainsift.org/) - Free token check on 6 EVM chains: simulates a buy and a sell against the token's real pool, shows buy/sell tax, mint and pause rights, liquidity locks and holder concentration. Each check is a public, dated page.
 * [Gliese Watch](https://gliese.io) - Control-change monitoring for six EVM chains: records proxy upgrades, owner and admin changes, Safe signer changes, role grants and timelock queues, and shows who controls each contract. The public feed and per-contract history are free.
 ### Reverse Engineering
@@ -164,6 +165,7 @@ These tools complement static analysis by watching contracts post-deployment for
 * [Panoramix](https://github.com/palkeo/panoramix) - Ethereum decompiler
 * [pyevmasm](https://github.com/trailofbits/pyevmasm) - EVM assembler and disassembler with a CLI and a Python API
 * [Rattle](https://github.com/trailofbits/rattle) - EVM binary static analysis framework. Produces SSA representations of EVM code.
+* [Calldata Decoder](https://github.com/Dansgit2b/calldata-decoder) - Browser-based EVM calldata decoder that works without an ABI (openchain/4byte lookup), decodes nested multicall/Safe calls recursively and flags unlimited approvals and admin actions.
 * [Solidity Bytes32 Converter Online ](https://neptunemutual.com/web3-tools/string-to-bytes32-converter/) - Convert Solidity bytes32 to utf8 string or integers and vice versa.
 * [Online Solidity ABI Encoder](https://neptunemutual.com/web3-tools/solidity-abi-encoder-online/) - Online Solidity ABI Encoder to encode smart contract arguments, and also perform read and write operations on the blockchain.
 * [Ethereum Unit Converter](https://neptunemutual.com/web3-tools/ethereum-unit-converter/) - Online tool to convert the different ethereum denominations (wei, gwei, ether).
