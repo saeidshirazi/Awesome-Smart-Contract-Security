@@ -157,6 +157,7 @@ These tools complement static analysis by watching contracts post-deployment for
 * [ChainSift](https://chainsift.org/) - Free token check on 6 EVM chains: simulates a buy and a sell against the token's real pool, shows buy/sell tax, mint and pause rights, liquidity locks and holder concentration. Each check is a public, dated page.
 * [Gliese Watch](https://gliese.io) - Control-change monitoring for six EVM chains: records proxy upgrades, owner and admin changes, Safe signer changes, role grants and timelock queues, and shows who controls each contract. The public feed and per-contract history are free.
 * [Solidity MEV Bot Scam Detector](https://github.com/mevdao-org/solidity-mev-bot-scam-detector) - Pattern scanner for the fake "MEV bot" Remix contracts pushed in YouTube tutorials: flags decoy mempool functions (parseMempool, callMempool), hidden recipient addresses rebuilt from hex slices, and full-balance transfers inside start() or withdrawal(). MIT.
+* [ownerwatch](https://github.com/imal1ice/ownerwatch) - Open-source admin-surface monitor for EVM contracts: tracks owners, proxy admins, Safe signers and threshold, timelock delays and EIP-2535 diamond facets, and alerts the moment any of them change. Runs as a CLI, a GitHub Action or an MCP server; also drafts and verifies ERC-8241 control disclosures.
 ### Reverse Engineering
 
 * [abi-decompiler](https://github.com/beched/abi-decompiler) - EVM reverse engineering helper utility
@@ -202,6 +203,8 @@ These tools complement static analysis by watching contracts post-deployment for
 | [Smashing Ethereum Smart Contracts for Fun and Profit](https://github.com/b-mueller/smashing-smart-contracts) | HITB Amsterdam | 2018 |
 | [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) | EkoParty | 2017 |
 # Misc
+
+* [How to Break Into Blockchain Security](https://smartcontractshacking.com/learn/security/how-to-break-into-blockchain-security) - Free guide to building Solidity review skills, a security portfolio, and a responsible AI-assisted learning workflow.
 
 * [Security Pitfalls & Best Practices 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201)
 * [Hacking Smart Contracts: Beginners Guide](https://learn.block6.tech/hacking-smart-contracts-beginners-guide-9c84e9de7194)
@@ -263,4 +266,4 @@ These tools complement static analysis by watching contracts post-deployment for
 - [Bounty Radar](https://agent.zbang.net/radar/) - Free live dashboard of Immunefi bug bounty programs, filterable by no-KYC payout and Safe Harbor status, cross-checked against GitHub code liveness for in-scope repos.
 - [token-launch-scan](https://github.com/invisiblemonsters/token-launch-scan) - Multi-chain launch-safety scanner: mint/freeze authority, honeypot behavior, LP lock, holder concentration (EVM + Solana + BSC).
 - [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
-
+- [Motech Audit Security Skills](https://github.com/MotechAudit/motech-audit-security-skills) - Open-source agent-readable Solidity security review guidance with reproducible Foundry tests covering reentrancy and access control. Includes vulnerable and mitigated examples. MIT licensed.
