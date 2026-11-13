@@ -156,6 +156,7 @@ These tools complement static analysis by watching contracts post-deployment for
 * [EIP-712 Inspector](https://github.com/Dansgit2b/eip712-inspector) - Browser-only check of eth_signTypedData_v4 payloads before signing: flags Permit/Permit2/Seaport orders, unlimited amounts, far deadlines and chainId mismatches; computes the digest and recovers the signer.
 * [ChainSift](https://chainsift.org/) - Free token check on 6 EVM chains: simulates a buy and a sell against the token's real pool, shows buy/sell tax, mint and pause rights, liquidity locks and holder concentration. Each check is a public, dated page.
 * [Gliese Watch](https://gliese.io) - Control-change monitoring for six EVM chains: records proxy upgrades, owner and admin changes, Safe signer changes, role grants and timelock queues, and shows who controls each contract. The public feed and per-contract history are free.
+* [ownerwatch](https://github.com/imal1ice/ownerwatch) - Open-source admin-surface monitor for EVM contracts: tracks owners, proxy admins, Safe signers and threshold, timelock delays and EIP-2535 diamond facets, and alerts the moment any of them change. Runs as a CLI, a GitHub Action or an MCP server; also drafts and verifies ERC-8241 control disclosures.
 ### Reverse Engineering
 
 * [abi-decompiler](https://github.com/beched/abi-decompiler) - EVM reverse engineering helper utility
