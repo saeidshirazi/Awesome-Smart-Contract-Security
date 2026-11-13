@@ -202,6 +202,8 @@ These tools complement static analysis by watching contracts post-deployment for
 | [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) | EkoParty | 2017 |
 # Misc
 
+* [How to Break Into Blockchain Security](https://smartcontractshacking.com/learn/security/how-to-break-into-blockchain-security) - Free guide to building Solidity review skills, a security portfolio, and a responsible AI-assisted learning workflow.
+
 * [Security Pitfalls & Best Practices 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201)
 * [Hacking Smart Contracts: Beginners Guide](https://learn.block6.tech/hacking-smart-contracts-beginners-guide-9c84e9de7194)
 * [Security Pitfalls & Best Practices 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101?s=r)
