@@ -265,4 +265,4 @@ These tools complement static analysis by watching contracts post-deployment for
 - [Bounty Radar](https://agent.zbang.net/radar/) - Free live dashboard of Immunefi bug bounty programs, filterable by no-KYC payout and Safe Harbor status, cross-checked against GitHub code liveness for in-scope repos.
 - [token-launch-scan](https://github.com/invisiblemonsters/token-launch-scan) - Multi-chain launch-safety scanner: mint/freeze authority, honeypot behavior, LP lock, holder concentration (EVM + Solana + BSC).
 - [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
-
+- [Motech Audit Security Skills](https://github.com/MotechAudit/motech-audit-security-skills) - Open-source agent-readable Solidity security review guidance with reproducible Foundry tests covering reentrancy and access control. Includes vulnerable and mitigated examples. MIT licensed.
