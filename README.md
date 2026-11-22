@@ -141,6 +141,8 @@
 * [Tanod Slither detectors](https://github.com/tanod-labs/slither-detectors) - Slither plugin with nine detectors for recurring DeFi bug classes (unchecked ERC-20 calls, AMM spot prices, zero slippage, swap deadlines, ERC-4626 inflation, ecrecover, signature replay, stale Chainlink prices), with vulnerable/fixed test fixtures and a [GitHub Action](https://github.com/tanod-labs/pactlint-action). MIT.
 * [EVM Smart Audit](https://github.com/evmsmart/solidity-detectors) - Twenty AST-based detectors for Solidity mapped to SWC and the OWASP Smart Contract Top 10; reports the checks that passed as well as the ones that fired. MIT.
 * [Pashov Audit Group Skills](https://github.com/pashov/skills) - Open-source agent skills for Solidity security: AI audit, pre-audit x-ray threat model, and Echidna/Medusa fuzz suite generation. MIT.
+* [drain-scan](https://github.com/secrypta/drain-scan) - Static linter for drain surfaces in smart wallets, ERC-4337 accounts and EIP-7702 delegates; precision-first, public benchmark. MIT.
+* [wallet-harness](https://github.com/secrypta/wallet-harness) - Corpus of wallet-drain attack vectors as executable Foundry reproductions, for scoring detectors and wallets against labeled cases. MIT.
 ### Runtime Monitoring & Scam Detection
 
 These tools complement static analysis by watching contracts post-deployment for honeypots, rug pulls, and adversarial deployer patterns. Most are free to use.
