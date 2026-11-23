@@ -261,6 +261,7 @@ These tools complement static analysis by watching contracts post-deployment for
 * [Bug Rap](https://bugrap.io/)
 * [Bug Bounty Programs 2026](https://hackenproof.com/programs?page=4)
 * [BlazePhoenix Bug Bounty](https://blazephoenix.xyz/bounty)
+* [Almondo](https://almondo-labs.ai/) - AI smart contract audits for EVM, Solana, Move, Stellar and Cosmos.
 
 
 
