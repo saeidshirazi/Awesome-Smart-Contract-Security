@@ -143,6 +143,7 @@
 * [Pashov Audit Group Skills](https://github.com/pashov/skills) - Open-source agent skills for Solidity security: AI audit, pre-audit x-ray threat model, and Echidna/Medusa fuzz suite generation. MIT.
 * [drain-scan](https://github.com/secrypta/drain-scan) - Static linter for drain surfaces in smart wallets, ERC-4337 accounts and EIP-7702 delegates; precision-first, public benchmark. MIT.
 * [wallet-harness](https://github.com/secrypta/wallet-harness) - Corpus of wallet-drain attack vectors as executable Foundry reproductions, for scoring detectors and wallets against labeled cases. MIT.
+* [realism-gate](https://github.com/KhomDev/realism-gate) - Static check of exploit PoC tests (Foundry, Solana Rust, Anchor TypeScript, Move) for setups that make a passing PoC prove less than it claims (privileged pranks, cheatcode-written storage, assertions that cannot fail, unpinned forks), plus a claim table that binds a report to its PoC. Offline. MIT.
 ### Runtime Monitoring & Scam Detection
 
 These tools complement static analysis by watching contracts post-deployment for honeypots, rug pulls, and adversarial deployer patterns. Most are free to use.
@@ -271,3 +272,4 @@ These tools complement static analysis by watching contracts post-deployment for
 - [token-launch-scan](https://github.com/invisiblemonsters/token-launch-scan) - Multi-chain launch-safety scanner: mint/freeze authority, honeypot behavior, LP lock, holder concentration (EVM + Solana + BSC).
 - [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
 - [Motech Audit Security Skills](https://github.com/MotechAudit/motech-audit-security-skills) - Open-source agent-readable Solidity security review guidance with reproducible Foundry tests covering reentrancy and access control. Includes vulnerable and mitigated examples. MIT licensed.
+- [priorart](https://github.com/KhomDev/priorart) - Checks an audit or bug-bounty finding against a program's saved prior audits, known issues and scope: has it been found, is it excluded, can it be paid. Quoted evidence with page numbers, no verdict. Offline CLI, MCP server and GitHub Action. MIT.
